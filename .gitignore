@@ -1,0 +1,9 @@
+out/
+logs
+*.db
+build/
+target/
+.vagrant/
+.gradle/
+*.iml
+.idea/
